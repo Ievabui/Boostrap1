@@ -1,0 +1,35 @@
+header{
+	background-color: black;
+}
+.container {
+	background-color: white;
+}
+nav{
+	background-color: black;
+}
+
+img{
+	margin: 10px;
+}
+.border {
+	border: grey solid 3px;
+	margin-bottom: 30px;
+}
+.bg-light {
+    --bs-bg-opacity: 1;
+    background-color: black !important;
+}
+.navbar-light .navbar-brand, .navbar-light .navbar-nav .nav-link  {
+    color: #f9fafb;
+}
+footer ul li {
+	display: inline;
+	margin: 10px;
+}
+footer ul li a{
+	color: black;
+}
+footer p, ul {
+	display: inline-block;
+}
+
